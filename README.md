@@ -3,7 +3,7 @@
 This project implements a ReAct-style math agent with tool use.
 
 ## Video Walkthrough
-[[Paste your Zoom / YouTube / Vimeo link here](https://youtu.be/DfcKpUO9FSc)]
+[(https://youtu.be/DfcKpUO9FSc)]
 
 ## Files
 - `agent.py` – main agent with calculator and product lookup tool
